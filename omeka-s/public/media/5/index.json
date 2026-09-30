@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/localhost:8080\/api-context",
+    "@id": "http:\/\/localhost:8080\/api\/media\/5",
+    "@type": "o:Media",
+    "o:id": 5,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8080\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "\u677e\u6751\u4e8c\u4e09\u6c5f\uff08\u65e7\u6c0f\u30fb\u90a3\u9808\uff09\u3068\u9f4b\u85e4\u304d\u3088\uff08\u65e7\u6c0f\u30fb\u677e\u6751\uff09",
+    "thumbnail_display_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/afa033b1a525953a387cfcc828c556a51d8a33ac.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/afa033b1a525953a387cfcc828c556a51d8a33ac.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/afa033b1a525953a387cfcc828c556a51d8a33ac.jpg"
+    },
+    "o:created": {
+        "@value": "2026-09-30T11:04:05+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2026-09-30T11:04:05+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:ingester": "upload",
+    "o:renderer": "file",
+    "o:item": {
+        "@id": "http:\/\/localhost:8080\/api\/items\/1",
+        "o:id": 1
+    },
+    "o:source": "IMG_8054.png",
+    "o:media_type": "image\/png",
+    "o:sha256": "6e7c3526f9fc514dbbf1189ec191bb3a0446a114334dc6dd78e035e8a9cc0b0a",
+    "o:size": 1863892,
+    "o:filename": "afa033b1a525953a387cfcc828c556a51d8a33ac.png",
+    "o:lang": null,
+    "o:alt_text": null,
+    "o:original_url": "http:\/\/localhost:8080\/files\/original\/afa033b1a525953a387cfcc828c556a51d8a33ac.png",
+    "o:thumbnail_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/afa033b1a525953a387cfcc828c556a51d8a33ac.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/afa033b1a525953a387cfcc828c556a51d8a33ac.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/afa033b1a525953a387cfcc828c556a51d8a33ac.jpg"
+    },
+    "data": [],
+    "dcterms:title": [
+        {
+            "type": "literal",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@value": "\u677e\u6751\u4e8c\u4e09\u6c5f\uff08\u65e7\u6c0f\u30fb\u90a3\u9808\uff09\u3068\u9f4b\u85e4\u304d\u3088\uff08\u65e7\u6c0f\u30fb\u677e\u6751\uff09"
+        }
+    ]
+}

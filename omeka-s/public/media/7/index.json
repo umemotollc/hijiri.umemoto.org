@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/localhost:8080\/api-context",
+    "@id": "http:\/\/localhost:8080\/api\/media\/7",
+    "@type": "o:Media",
+    "o:id": 7,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8080\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "\u7802\u7530\u82f1\u5409",
+    "thumbnail_display_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/9755241900f736db469fc242f983d1d9dd2fe624.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/9755241900f736db469fc242f983d1d9dd2fe624.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/9755241900f736db469fc242f983d1d9dd2fe624.jpg"
+    },
+    "o:created": {
+        "@value": "2026-09-30T11:27:03+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2026-09-30T11:27:03+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:ingester": "upload",
+    "o:renderer": "file",
+    "o:item": {
+        "@id": "http:\/\/localhost:8080\/api\/items\/6",
+        "o:id": 6
+    },
+    "o:source": "\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8 2026-09-28 23.59.24.png",
+    "o:media_type": "image\/png",
+    "o:sha256": "e951c78786b49d9acf44311eac6d98afb8fc51cb639d1efdfade72921c71d274",
+    "o:size": 2026545,
+    "o:filename": "9755241900f736db469fc242f983d1d9dd2fe624.png",
+    "o:lang": null,
+    "o:alt_text": null,
+    "o:original_url": "http:\/\/localhost:8080\/files\/original\/9755241900f736db469fc242f983d1d9dd2fe624.png",
+    "o:thumbnail_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/9755241900f736db469fc242f983d1d9dd2fe624.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/9755241900f736db469fc242f983d1d9dd2fe624.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/9755241900f736db469fc242f983d1d9dd2fe624.jpg"
+    },
+    "data": [],
+    "dcterms:title": [
+        {
+            "type": "literal",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@value": "\u7802\u7530\u82f1\u5409"
+        }
+    ]
+}
