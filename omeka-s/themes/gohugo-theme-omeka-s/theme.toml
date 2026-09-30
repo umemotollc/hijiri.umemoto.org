@@ -1,0 +1,10 @@
+name = 'Omeka S'
+description = 'A Hugo theme for building static sites for Omeka S'
+homepage = 'https://github.com/omeka/gohugo-theme-omeka-s'
+
+license = 'GNU GPL'
+licenselink = 'https://github.com/omeka/gohugo-theme-omeka-s/blob/main/LICENSE'
+
+[author]
+  name = 'Omeka Team'
+  homepage = 'https://omeka.org/'

@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/localhost:8080\/api-context",
+    "@id": "http:\/\/localhost:8080\/api\/media\/4",
+    "@type": "o:Media",
+    "o:id": 4,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8080\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "\u30d5\u30a1\u30a4\u30eb",
+    "thumbnail_display_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/3a4ebcb1f574263fea2e1c9977679a85588503cf.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/3a4ebcb1f574263fea2e1c9977679a85588503cf.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/3a4ebcb1f574263fea2e1c9977679a85588503cf.jpg"
+    },
+    "o:created": {
+        "@value": "2026-09-30T11:04:05+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2026-09-30T11:04:05+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:ingester": "upload",
+    "o:renderer": "file",
+    "o:item": {
+        "@id": "http:\/\/localhost:8080\/api\/items\/1",
+        "o:id": 1
+    },
+    "o:source": "IMG_8050.png",
+    "o:media_type": "image\/png",
+    "o:sha256": "7996cf52ddd5b535d7774f9d1e4771b1f3b4b1b21db13ae3cf209d0797a8687f",
+    "o:size": 1990305,
+    "o:filename": "3a4ebcb1f574263fea2e1c9977679a85588503cf.png",
+    "o:lang": null,
+    "o:alt_text": null,
+    "o:original_url": "http:\/\/localhost:8080\/files\/original\/3a4ebcb1f574263fea2e1c9977679a85588503cf.png",
+    "o:thumbnail_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/3a4ebcb1f574263fea2e1c9977679a85588503cf.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/3a4ebcb1f574263fea2e1c9977679a85588503cf.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/3a4ebcb1f574263fea2e1c9977679a85588503cf.jpg"
+    },
+    "data": [],
+    "dcterms:title": [
+        {
+            "type": "literal",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@value": "\u30d5\u30a1\u30a4\u30eb"
+        }
+    ]
+}
