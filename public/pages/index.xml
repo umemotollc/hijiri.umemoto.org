@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Site pages on 松村外次郎資料</title>
+		<link>/var/www/html/static/pages/</link>
+		<description>Recent content in Site pages on 松村外次郎資料</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 30 Sep 2026 12:45:58 +0000</lastBuildDate>
+		
+			<atom:link href="/var/www/html/static/pages/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>外次郎と金岡好造の家族？</title>
+				<link>/var/www/html/static/pages/kanaoka-family/</link>
+				<pubDate>Wed, 30 Sep 2026 12:45:58 +0000</pubDate>
+				<guid>/var/www/html/static/pages/kanaoka-family/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>砂田英吉の家族？</title>
+				<link>/var/www/html/static/pages/sunada-eikichi/</link>
+				<pubDate>Wed, 30 Sep 2026 11:18:33 +0000</pubDate>
+				<guid>/var/www/html/static/pages/sunada-eikichi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>外次郎の資料から　ーー　「写真集　その他」は、誰の家族写真なのか</title>
+				<link>/var/www/html/static/pages/unknown-photos/</link>
+				<pubDate>Wed, 30 Sep 2026 10:29:01 +0000</pubDate>
+				<guid>/var/www/html/static/pages/unknown-photos/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
