@@ -1,1 +1,0 @@
-{"title":"Site pages","params":{"bodyClasses":["page resource browse"]}}

@@ -1,1 +1,0 @@
-{"title":"Items","params":{"titleSingular":"Item","bodyClasses":["item resource browse"]}}
