@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/localhost:8080\/api-context",
+    "@id": "http:\/\/localhost:8080\/api\/media\/20",
+    "@type": "o:Media",
+    "o:id": 20,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8080\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/4dfd81c1e49db3819d7e0c612353dde3154e2c8b.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/4dfd81c1e49db3819d7e0c612353dde3154e2c8b.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/4dfd81c1e49db3819d7e0c612353dde3154e2c8b.jpg"
+    },
+    "o:created": {
+        "@value": "2026-10-01T15:05:33+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2026-10-01T15:05:33+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:ingester": "upload",
+    "o:renderer": "file",
+    "o:item": {
+        "@id": "http:\/\/localhost:8080\/api\/items\/15",
+        "o:id": 15
+    },
+    "o:source": "IMG_8042.png",
+    "o:media_type": "image\/png",
+    "o:sha256": "762710ab268c6bb330b1cf44d19a4424b16de5f91ddbc641cad846577e1ed65d",
+    "o:size": 2383511,
+    "o:filename": "4dfd81c1e49db3819d7e0c612353dde3154e2c8b.png",
+    "o:lang": null,
+    "o:alt_text": null,
+    "o:original_url": "http:\/\/localhost:8080\/files\/original\/4dfd81c1e49db3819d7e0c612353dde3154e2c8b.png",
+    "o:thumbnail_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/4dfd81c1e49db3819d7e0c612353dde3154e2c8b.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/4dfd81c1e49db3819d7e0c612353dde3154e2c8b.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/4dfd81c1e49db3819d7e0c612353dde3154e2c8b.jpg"
+    },
+    "data": []
+}
