@@ -107,7 +107,7 @@
                         "@id": "http:\/\/localhost:8080\/api\/media\/11",
                         "o:id": 11
                     },
-                    "o:caption": "<h3 class=\"item-title\">\u51fa\u5178\u30fb\u91d1\u5ca1\u597d\u9020\u306e\u5bb6\u65cf\u5199\u771f \u51fa\u5178\u30fb\u300c\uff1c\u4eba\u751f\u306e\u3042\u3068\u3055\u304d\uff1e\u91d1\u5ca1\u7d14\u4e8c\u3055\u3093\uff08\uff12\uff09\u5bcc\u5c71\u7b2c\u4e00\u9280\u884c\u76f8\u8ac7\u5f79 \u91d1\u5ca1\u5bb6\uff0f\u79c1\u306e\u610f\u5fd7\u5c0a\u91cd\u3057\u305f\u4e21\u89aa\u300d\u5317\u65e5\u672c\u65b0\u805e(2024\u5e7411\u670816\u65e5 05:00)&nbsp;https:\/\/webun.jp\/articles\/-\/708669<\/h3>\r\n"
+                    "o:caption": "<p>\u51fa\u5178\u30fb\u300c\uff1c\u4eba\u751f\u306e\u3042\u3068\u3055\u304d\uff1e\u91d1\u5ca1\u7d14\u4e8c\u3055\u3093\uff08\uff12\uff09\u5bcc\u5c71\u7b2c\u4e00\u9280\u884c\u76f8\u8ac7\u5f79 \u91d1\u5ca1\u5bb6\uff0f\u79c1\u306e\u610f\u5fd7\u5c0a\u91cd\u3057\u305f\u4e21\u89aa\u300d \u5317\u65e5\u672c\u65b0\u805e(2024\u5e7411\u670816\u65e5 05:00) https:\/\/webun.jp\/articles\/-\/708669<\/p>\r\n"
                 }
             ]
         },
@@ -125,7 +125,7 @@
         {
             "o:layout": "listOfPages",
             "o:data": {
-                "pagelist": "[{\"id\":\"j1_1\",\"text\":\"\u5916\u6b21\u90ce\u306e\u8cc7\u6599\u304b\u3089\u3000\u30fc\u30fc\u3000\u300c\u5199\u771f\u96c6\u3000\u305d\u306e\u4ed6\u300d\u306f\u3001\u8ab0\u306e\u5bb6\u65cf\u5199\u771f\u306a\u306e\u304b\",\"icon\":true,\"li_attr\":{\"id\":\"j1_1\"},\"a_attr\":{\"href\":\"#\",\"id\":\"j1_1_anchor\"},\"state\":{\"loaded\":true,\"opened\":true,\"selected\":false,\"disabled\":false},\"data\":{\"type\":\"page\",\"data\":{\"id\":2,\"is_public\":true},\"url\":\"\/s\/sotojiro-shiryo\/page\/unknown-photos\"},\"children\":[{\"id\":\"j1_4\",\"text\":\"\u7802\u7530\u82f1\u5409\u306e\u5bb6\u65cf\u3068\u4e8c\u79d1\u91d1\u6ca2\u5c55\",\"icon\":true,\"li_attr\":{\"id\":\"j1_4\"},\"a_attr\":{\"href\":\"#\",\"id\":\"j1_4_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{\"type\":\"page\",\"data\":{\"id\":3,\"is_public\":1}},\"children\":[]},{\"id\":\"j1_3\",\"text\":\"\u5916\u6b21\u90ce\u3068\u91d1\u5ca1\u597d\u9020\u306e\u5bb6\u65cf\uff1f\",\"icon\":true,\"li_attr\":{\"id\":\"j1_3\"},\"a_attr\":{\"href\":\"#\",\"id\":\"j1_3_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{\"type\":\"page\",\"data\":{\"id\":4,\"is_public\":true},\"url\":\"\/s\/sotojiro-shiryo\/page\/kanaoka-family\"},\"children\":[]}]}]"
+                "pagelist": "[{\"id\":\"j1_1\",\"text\":\"\u5916\u6b21\u90ce\u306e\u8cc7\u6599\u304b\u3089\u3000\u30fc\u30fc\u3000\u300c\u5199\u771f\u96c6\u3000\u305d\u306e\u4ed6\u300d\u306f\u3001\u8ab0\u306e\u5bb6\u65cf\u5199\u771f\u306a\u306e\u304b\",\"icon\":true,\"li_attr\":{\"id\":\"j1_1\"},\"a_attr\":{\"href\":\"#\",\"id\":\"j1_1_anchor\"},\"state\":{\"loaded\":true,\"opened\":true,\"selected\":false,\"disabled\":false},\"data\":{\"type\":\"page\",\"data\":{\"id\":2,\"is_public\":true},\"url\":\"\/s\/sotojiro-shiryo\/page\/unknown-photos\"},\"children\":[{\"id\":\"j1_4\",\"text\":\"\u7802\u7530\u82f1\u5409\u306e\u5bb6\u65cf\u3068\u4e8c\u79d1\u91d1\u6ca2\u5c55\",\"icon\":true,\"li_attr\":{\"id\":\"j1_4\"},\"a_attr\":{\"href\":\"#\",\"id\":\"j1_4_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{\"type\":\"page\",\"data\":{\"id\":3,\"is_public\":true},\"url\":\"\/s\/sotojiro-shiryo\/page\/sunada-eikichi\"},\"children\":[]},{\"id\":\"j1_3\",\"text\":\"\u5916\u6b21\u90ce\u3068\u91d1\u5ca1\u597d\u9020\u306e\u5bb6\u65cf\uff1f\",\"icon\":true,\"li_attr\":{\"id\":\"j1_3\"},\"a_attr\":{\"href\":\"#\",\"id\":\"j1_3_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{\"type\":\"page\",\"data\":{\"id\":4,\"is_public\":true},\"url\":\"\/s\/sotojiro-shiryo\/page\/kanaoka-family\"},\"children\":[]}]}]"
             },
             "o:layout_data": {
                 "grid_column_position": "auto",
@@ -143,7 +143,7 @@
         "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
     },
     "o:modified": {
-        "@value": "2026-10-01T15:51:41+00:00",
+        "@value": "2026-10-03T17:18:47+00:00",
         "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
     }
 }
