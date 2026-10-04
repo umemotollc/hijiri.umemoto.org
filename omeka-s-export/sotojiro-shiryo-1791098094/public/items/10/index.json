@@ -1,0 +1,68 @@
+{
+    "@context": "http:\/\/localhost:8080\/api-context",
+    "@id": "http:\/\/localhost:8080\/api\/items\/10",
+    "@type": [
+        "o:Item",
+        "dctype:StillImage"
+    ],
+    "o:id": 10,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8080\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8080\/api\/resource_classes\/33",
+        "o:id": 33
+    },
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "\u91d1\u5ca1\u597d\u9020\u306e\u5bb6\u65cf\u5199\u771f",
+    "thumbnail_display_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/666580a80af1dde7fa20a7a3d65ca7d3a16c8d3c.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/666580a80af1dde7fa20a7a3d65ca7d3a16c8d3c.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/666580a80af1dde7fa20a7a3d65ca7d3a16c8d3c.jpg"
+    },
+    "o:created": {
+        "@value": "2026-09-30T13:06:02+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2026-09-30T13:16:05+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:primary_media": {
+        "@id": "http:\/\/localhost:8080\/api\/media\/11",
+        "o:id": 11
+    },
+    "o:media": [
+        {
+            "@id": "http:\/\/localhost:8080\/api\/media\/11",
+            "o:id": 11
+        }
+    ],
+    "o:item_set": [],
+    "o:site": [
+        {
+            "@id": "http:\/\/localhost:8080\/api\/sites\/1",
+            "o:id": 1
+        }
+    ],
+    "dcterms:title": [
+        {
+            "type": "literal",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@value": "\u91d1\u5ca1\u597d\u9020\u306e\u5bb6\u65cf\u5199\u771f"
+        },
+        {
+            "type": "uri",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@id": "https:\/\/webun.jp\/articles\/-\/708669",
+            "o:label": "\u51fa\u5178\u30fb\u300c\uff1c\u4eba\u751f\u306e\u3042\u3068\u3055\u304d\uff1e\u91d1\u5ca1\u7d14\u4e8c\u3055\u3093\uff08\uff12\uff09\u5bcc\u5c71\u7b2c\u4e00\u9280\u884c\u76f8\u8ac7\u5f79 \u91d1\u5ca1\u5bb6\uff0f\u79c1\u306e\u610f\u5fd7\u5c0a\u91cd\u3057\u305f\u4e21\u89aa\u300d\n\u5317\u65e5\u672c\u65b0\u805e(2024\u5e7411\u670816\u65e5 05:00)"
+        }
+    ]
+}

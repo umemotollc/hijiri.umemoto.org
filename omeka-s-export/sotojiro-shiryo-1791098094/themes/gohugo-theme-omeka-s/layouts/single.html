@@ -1,0 +1,10 @@
+{{ define "main" }}
+    <h2>{{ .Title }}</h2>
+    <h3>{{ .CurrentSection.Params.titleSingular }}</h3>
+    {{ range sort (.Resources.Match "blocks/*.md") "File.Path" }}
+    <div class="{{ printf "resource-page-block-%s" .Params.layout }}">
+        {{ .Content }}
+    </div>
+    {{ end }}
+    {{ .Content }}
+{{ end }}

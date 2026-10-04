@@ -1,0 +1,45 @@
+{
+    "baseURL": "\/omeka-s",
+    "theme": "gohugo-theme-omeka-s",
+    "title": "\u677e\u6751\u5916\u6b21\u90ce\u8cc7\u6599",
+    "menus": {
+        "main": [
+            {
+                "name": "Browse",
+                "identifier": "a999b0ac2a13698c9c255bf0995d2bca7",
+                "parent": null,
+                "pageRef": "\/items",
+                "weight": 1
+            },
+            {
+                "name": "\u5916\u6b21\u90ce\u306e\u8cc7\u6599\u304b\u3089\u3000\u30fc\u3000\u300c\u5199\u771f\u96c6\u3000\u305d\u306e\u4ed6\u300d\u306f\u3001\u8ab0\u306e\u5bb6\u65cf\u5199\u771f\u306a\u306e\u304b",
+                "identifier": "a6f9732e5080fe31e4a27c6824e0fbaf0",
+                "parent": null,
+                "pageRef": "\/pages\/unknown-photos",
+                "weight": 2
+            },
+            {
+                "name": "\u7802\u7530\u82f1\u5409\u306e\u5bb6\u65cf\u3068\u4e8c\u79d1\u91d1\u6ca2\u5c55",
+                "identifier": "a1fce7f1b83abad43a10eeeda194b4a09",
+                "parent": "a6f9732e5080fe31e4a27c6824e0fbaf0",
+                "pageRef": "\/pages\/sunada-eikichi",
+                "weight": 3
+            },
+            {
+                "name": "\u5916\u6b21\u90ce\u3068\u91d1\u5ca1\u597d\u9020\u306e\u5bb6\u65cf\uff1f",
+                "identifier": "adbdd029eca47d73aaab8ccf98f998881",
+                "parent": "a6f9732e5080fe31e4a27c6824e0fbaf0",
+                "pageRef": "\/pages\/kanaoka-family",
+                "weight": 4
+            }
+        ]
+    },
+    "params": {
+        "homepage": "pages\/unknown-photos",
+        "theme": "default",
+        "showLocaleLabel": true
+    },
+    "pagination": {
+        "pagerSize": "25"
+    }
+}
