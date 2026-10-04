@@ -1,0 +1,8 @@
+{{/*
+Renders literal string, HTML escaped and new lines to breaks.
+
+@returns {string}
+*/}}
+
+{{ if .Get "lang" }}&#91;{{ .Get "lang" }}&#93;{{ end }}
+{{ replace (htmlEscape .Inner) "\n" "<br>" | safeHTML }}

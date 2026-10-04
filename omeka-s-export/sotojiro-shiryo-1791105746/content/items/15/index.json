@@ -1,0 +1,79 @@
+{
+    "@context": "http:\/\/localhost:8080\/api-context",
+    "@id": "http:\/\/localhost:8080\/api\/items\/15",
+    "@type": "o:Item",
+    "o:id": 15,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8080\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "\u4e8c\u79d1\u91d1\u6ca2\u5c55 \u65b0\u805e\u5207\u308a\u629c\u304d",
+    "thumbnail_display_urls": {
+        "large": "http:\/\/localhost:8080\/files\/large\/51236df63fe97fd744be0ca218c44bc71a4d8d71.jpg",
+        "medium": "http:\/\/localhost:8080\/files\/medium\/51236df63fe97fd744be0ca218c44bc71a4d8d71.jpg",
+        "square": "http:\/\/localhost:8080\/files\/square\/51236df63fe97fd744be0ca218c44bc71a4d8d71.jpg"
+    },
+    "o:created": {
+        "@value": "2026-10-01T15:05:32+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2026-10-01T15:05:32+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:primary_media": {
+        "@id": "http:\/\/localhost:8080\/api\/media\/16",
+        "o:id": 16
+    },
+    "o:media": [
+        {
+            "@id": "http:\/\/localhost:8080\/api\/media\/16",
+            "o:id": 16
+        },
+        {
+            "@id": "http:\/\/localhost:8080\/api\/media\/17",
+            "o:id": 17
+        },
+        {
+            "@id": "http:\/\/localhost:8080\/api\/media\/18",
+            "o:id": 18
+        },
+        {
+            "@id": "http:\/\/localhost:8080\/api\/media\/19",
+            "o:id": 19
+        },
+        {
+            "@id": "http:\/\/localhost:8080\/api\/media\/20",
+            "o:id": 20
+        }
+    ],
+    "o:item_set": [],
+    "o:site": [
+        {
+            "@id": "http:\/\/localhost:8080\/api\/sites\/1",
+            "o:id": 1
+        }
+    ],
+    "dcterms:title": [
+        {
+            "type": "literal",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@value": "\u4e8c\u79d1\u91d1\u6ca2\u5c55 \u65b0\u805e\u5207\u308a\u629c\u304d"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "type": "literal",
+            "property_id": 4,
+            "property_label": "Description",
+            "is_public": true,
+            "@value": "\u783a\u6ce2\u5e02\u7f8e\u8853\u9928\u300c\u677e\u6751\u5916\u6b21\u90ce\u8cc7\u6599\u300d"
+        }
+    ]
+}

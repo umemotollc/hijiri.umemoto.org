@@ -1,0 +1,27 @@
+{{/*
+Renders an HTML figure element in any page context.
+
+@returns {template.HTML}
+*/}}
+
+{{ $height := .Get "height" }}
+{{ $imgResource := false }}
+{{ $linkResource := false }}
+
+{{ if and (.Get "imgPage") (.Get "imgResource") }}
+    {{ $imgPage := site.GetPage (.Get "imgPage") }}
+    {{ $imgResource = $imgPage.Resources.GetMatch (printf "%s*" (.Get "imgResource")) }}
+{{ else if (.Get "imgResource") }}
+    {{ $imgResource = resources.Get (.Get "imgResource") }}
+{{ end }}
+
+{{ if and (.Get "linkPage") (.Get "linkResource") }}
+    {{ $linkPage := site.GetPage (.Get "linkPage") }}
+    {{ $linkResource = $linkPage.Resources.GetMatch (printf "%s*" (.Get "linkResource")) }}
+{{ else if (.Get "linkPage") }}
+    {{ $linkResource = site.GetPage (.Get "linkPage") }}
+{{ end }}
+
+{{ with $linkResource }}<a href="{{ .RelPermalink }}">{{ end }}
+{{ with $imgResource }}<img src="{{ .RelPermalink }}"{{ with $height }} height="{{ . }}"{{ end }}>{{ end }}
+{{ with $linkResource }}</a>{{ end }}

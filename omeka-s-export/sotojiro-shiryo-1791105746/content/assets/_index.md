@@ -1,0 +1,1 @@
+{"title":"Assets","params":{"titleSingular":"Asset","bodyClasses":["asset resource browse"]}}
