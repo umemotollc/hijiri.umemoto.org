@@ -14,12 +14,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Install Marp CLI
         run: npm install -g @marp-team/marp-cli
@@ -32,7 +32,7 @@ jobs:
           _slides_src/2026-03-01-wikimedia25.md
 
       - name: Commit generated slides
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "Build Marp slides"
           file_pattern: slides/2026-03-01-wikimedia25.html
