@@ -5,6 +5,7 @@ date: 2026-11-05 00:00:00 +0900
 categories: wikimedia, uec
 marp: true
 paginate: true
+author: Hijiri UMEMOTO
 ---
 
 <style>
