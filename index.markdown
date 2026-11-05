@@ -8,6 +8,7 @@ layout: home
 ## Slides
 
 - [『ウィキピディア』と『ウィキペディア』](./slides/2026-03-01-wikimedia25.html)
+- [電通大での発表（2026-11-05）](./slides/2026-11-05-dentsudai.html)
 
 ## 実験室
 
