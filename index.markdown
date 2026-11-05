@@ -1,14 +1,15 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+author: Hijiri UMEMOTO
 layout: home
+title: Hijiri UMEMOTO
 ---
 
-## Slides
+## スライド Slides
 
 - [『ウィキピディア』と『ウィキペディア』](./slides/2026-03-01-wikimedia25.html)
-- [電通大での発表（2026-11-05）](./slides/2026-11-05-dentsudai.html)
+- [電通大メモ(1)（2026-11-05）](./slides/2026-11-05-dentsudai.html)
 
 ## 実験室
 
