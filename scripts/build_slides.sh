@@ -14,3 +14,10 @@ output_file="$root_dir/slides/2026-03-01-wikimedia25.html"
 marp --html --output "$output_file" "$input_file"
 
 echo "Generated: $output_file"
+
+input_file="$root_dir/_slides_src/2026-11-05-dentsudai.md"
+output_file="$root_dir/slides/2026-11-05-dentsudai.html"
+
+marp --html --output "$output_file" "$input_file"
+
+echo "Generated: $output_file"
