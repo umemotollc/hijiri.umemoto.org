@@ -47,7 +47,7 @@ author: Hijiri UMEMOTO
 
 記事の編集画面から、適切なカテゴリを追加します。
 
-![width:600px](./2026-11-05/2026-11-05_add_category.jpg)
+![width:600px](/assets//2026-11-05/2026-11-05_add_category.jpg)
 
 
 ---
@@ -57,7 +57,7 @@ author: Hijiri UMEMOTO
 
 - URL https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%83%87%E3%83%BC%E3%82%BF%E6%9B%B8%E3%81%8D%E5%87%BA%E3%81%97
 
-![w:600px](./2026-11-05/2026-11-06_export.jpg)
+![w:600px](/assets/2026-11-05/2026-11-06_export.jpg)
 
 ---
 ### ダンプされたXMLファイルの中身（部分）

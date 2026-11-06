@@ -9,7 +9,7 @@ title: Hijiri UMEMOTO
 ## スライド Slides
 
 - [『ウィキピディア』と『ウィキペディア』](./slides/2026-03-01-wikimedia25.html)
-- [電通大メモ(1)（2026-11-05）](./slides/2026-11-05-dentsudai.html)
+- [電気通信大学メモ(1)（2026-11-05）](./slides/2026-11-05-dentsudai.html)
 
 ## 実験室
 
