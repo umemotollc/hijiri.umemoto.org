@@ -1,9 +1,0 @@
-{
-  "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page013",
-  "type": "ImageService3",
-  "protocol": "http://iiif.io/api/image",
-  "profile": "level0",
-  "width": 4280,
-  "height": 3106
-}
