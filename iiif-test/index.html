@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>松村外次郎のパスポート (1931) - 静的IIIFを使った デジタルアーカイブ の例</title>
+
+    <!-- Universal Viewer CSS -->
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/uv.css"
+    >
+
+    <!-- Universal Viewer JavaScript -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/umd/UV.js">
+    </script>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: sans-serif;
+        }
+
+        header {
+            padding: 15px 20px;
+            background: #333;
+            color: white;
+        }
+
+        #uv {
+            width: 100%;
+            height: 750px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>松村外次郎のパスポート (1931)</h1>
+    <p>静的IIIFを使った デジタルアーカイブ の例</p>
+</header>
+
+<div>このページは、静的IIIF (IIIF Level 0) を使ったデジタルアーカイブの例です。
+    IIIF は International Image Interoperability Framework の略称です。
+    デジタル化された文化資源を、標準的な方法で表示・操作できるようになります。
+    一般的には、IIIFのマニフェストはサーバーサイドで動的に生成されることが多いですが、この例では、静的なJSONファイルとしてマニフェストを python で生成し、表示しています。
+    すべての画像とマニフェストは、GitHub Pages上でホスティングされています。
+</div>
+
+
+<div id="uv" class="uv"></div>
+
+<script>
+
+    const data = {
+        manifest:
+            "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931.json",
+            embedded: true
+    };
+
+    const uvInstance = UV.init("uv", data);
+
+</script>
+
+<hr />
+<div>このページのソースコードは、GitHubで公開されています。<a href="https://github.com/umemotollc/hijiri/tree/main/iiif-test">https://github.com/umemotollc/hijiri/tree/main/iiif-test</a></div>
+<div>うめもと・ひじり <a href="https://github.com/7m4gmh/">https://github.com/7m4gmh/</a></div>
+</body>
+</html>

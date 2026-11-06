@@ -1,0 +1,837 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "砺波市美術館所蔵 松村外次郎 パスポート 1931年 日本"
+    ],
+    "en": [
+      "MATSUMURA Sotojiro Passport 1931, Japan"
+    ]
+  },
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "1フレーム"
+        ]
+      },
+      "width": 2814,
+      "height": 2299,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page001/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2814,
+                "height": 2299,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page001",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "2フレーム"
+        ]
+      },
+      "width": 4029,
+      "height": 3065,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p2/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page002/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4029,
+                "height": 3065,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page002",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "3フレーム"
+        ]
+      },
+      "width": 4284,
+      "height": 3184,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p3/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p3/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page003/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4284,
+                "height": 3184,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page003",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "4フレーム"
+        ]
+      },
+      "width": 4284,
+      "height": 3213,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p4/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p4/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page004/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4284,
+                "height": 3213,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page004",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "5フレーム"
+        ]
+      },
+      "width": 4284,
+      "height": 3278,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p5/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p5/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page005/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4284,
+                "height": 3278,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page005",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "6フレーム"
+        ]
+      },
+      "width": 4284,
+      "height": 3221,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p6/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p6/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page006/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4284,
+                "height": 3221,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page006",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "7フレーム"
+        ]
+      },
+      "width": 4284,
+      "height": 3056,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p7/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p7/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page007/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4284,
+                "height": 3056,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page007",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "8フレーム"
+        ]
+      },
+      "width": 4284,
+      "height": 3038,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p8/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p8/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page008/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4284,
+                "height": 3038,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page008",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "9フレーム"
+        ]
+      },
+      "width": 4273,
+      "height": 2851,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p9/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p9/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page009/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4273,
+                "height": 2851,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page009",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "10フレーム"
+        ]
+      },
+      "width": 4284,
+      "height": 3298,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p10/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p10/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page010/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4284,
+                "height": 3298,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page010",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "11フレーム"
+        ]
+      },
+      "width": 4260,
+      "height": 3110,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p11/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p11/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page011/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4260,
+                "height": 3110,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page011",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p12",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "12フレーム"
+        ]
+      },
+      "width": 4241,
+      "height": 3151,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p12/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p12/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page012/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4241,
+                "height": 3151,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page012",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p13",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "13フレーム"
+        ]
+      },
+      "width": 4280,
+      "height": 3106,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p13/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p13/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page013/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4280,
+                "height": 3106,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page013",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p14",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "14フレーム"
+        ]
+      },
+      "width": 4175,
+      "height": 2931,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p14/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p14/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page014/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4175,
+                "height": 2931,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page014",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p15",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "15フレーム"
+        ]
+      },
+      "width": 3991,
+      "height": 2905,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p15/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p15/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page015/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3991,
+                "height": 2905,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page015",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p16",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "16フレーム"
+        ]
+      },
+      "width": 4076,
+      "height": 3179,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p16/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p16/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page016/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4076,
+                "height": 3179,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page016",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p17",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "17フレーム"
+        ]
+      },
+      "width": 4011,
+      "height": 3049,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p17/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p17/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page017/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4011,
+                "height": 3049,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page017",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p18",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "18フレーム"
+        ]
+      },
+      "width": 4118,
+      "height": 3108,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p18/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p18/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page018/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4118,
+                "height": 3108,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page018",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p19",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "19フレーム"
+        ]
+      },
+      "width": 4032,
+      "height": 2991,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p19/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p19/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page019/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4032,
+                "height": 2991,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page019",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p20",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "20フレーム"
+        ]
+      },
+      "width": 4072,
+      "height": 2988,
+      "items": [
+        {
+          "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p20/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p20/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page020/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4072,
+                "height": 2988,
+                "service": [
+                  {
+                    "id": "https://hijiri.umemoto.org/iiif-test/images/MATSUMURA-Sotojiro-Passport-1931/page020",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
+              },
+              "target": "https://hijiri.umemoto.org/iiif-test/manifests/MATSUMURA-Sotojiro-Passport-1931/canvas/p20"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "資料種別"
+        ]
+      },
+      "value": {
+        "ja": [
+          "パスポート"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "発行国"
+        ]
+      },
+      "value": {
+        "ja": [
+          "日本"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "発行機関"
+        ]
+      },
+      "value": {
+        "ja": [
+          "外務省"
+        ]
+      }
+    }
+  ]
+}
