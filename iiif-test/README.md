@@ -12,6 +12,8 @@ author: Hijiri UMEMOTO
 
 いわゆる static IIIF を提供するために、IIIF Presentation API 3.0に準拠したManifestをPythonで自動生成します。IIIF image server を用意できない場合に有用です。
 
+- [松村外次郎 パスポート, 1931(IIIF画像表示デモ)](./iiif-test/)
+
 ## 1. ディレクトリ構成
 
 ```text

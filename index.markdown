@@ -13,5 +13,15 @@ title: Hijiri UMEMOTO
 
 ## 実験室
 
+### Omeka S + Hugo
+
 - [Omeka S + Hugo の動作確認](./omeka-s/)
--- [_Omeka S_](https://omeka.org/s/) という文化資源を扱うソフトウエアから出力した静的データを _Hugo_ を使ってHTMLに変換しています。内容については単なる見本で、権利処理で問題がなさそうな家族写真を載せています。Omeka S は、ノートパソコンに入れて持ち歩いています。
+
+[_Omeka S_](https://omeka.org/s/) という文化資源を扱うソフトウエアから出力した静的データを _Hugo_ を使ってHTMLに変換しています。内容については単なる見本で、権利処理で問題がなさそうな家族写真を載せています。Omeka S は、ノートパソコンに入れて持ち歩いています。
+
+### 静的データで IIIF を実現しよう
+
+いわゆる静的IIIF (IIIF Level 0, static IIIF image server) の手法でマニフェストを公開し、静的なウェブサーバ (github pages) で画像をホストする方法をテストしています。pythonスクリプトでマニフェストのjson出力と画像変換を行いました。表示には、universal viewer を使っています。サンプルの画像は、私の先祖のパスポート(1931年発行、砺波市美術館所蔵)です。 
+
+- [松村外次郎 パスポート, 1931(IIIF画像表示デモ)](./iiif-test/)
+- [README.md](./iiif-test/README.md)
