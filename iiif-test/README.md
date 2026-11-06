@@ -1,8 +1,16 @@
-# IIIF Static Archive
+---
+layout: post
+title:  静的データで IIIF を実現しよう
+date:   2026-11-07 00:00:00 +0900
+categories: digital archive
+author: Hijiri UMEMOTO
+---
+
+# IIIF Static Archive / 静的IIIF (IIIF Level 0)
 
 このページでは、冊子の画像IIIF形式で公開するための静的データ生成方法について説明します。
 
-いわゆる static IIIF を提供するために、IIIF Presentation API 3.0に準拠したManifestをPythonで自動生成します。
+いわゆる static IIIF を提供するために、IIIF Presentation API 3.0に準拠したManifestをPythonで自動生成します。IIIF image server を用意できない場合に有用です。
 
 ## 1. ディレクトリ構成
 
