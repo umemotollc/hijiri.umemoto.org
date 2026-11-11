@@ -2,3 +2,5 @@ _site/
 slides/
 venv/
 .venv/
+.DS_Store
+
