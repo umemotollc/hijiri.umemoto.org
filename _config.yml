@@ -57,7 +57,6 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
-   - iiif-test/
    - omeka-s-export/
-   - assets/
+
    
