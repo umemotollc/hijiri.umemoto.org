@@ -3,9 +3,9 @@
 ## Slides
 
 - [2026-03-01 wikimedia25 (source)](./_slides_src/2026-03-01-wikimedia25.md)
-- [2026-03-01 wikimedia25 (HTML slides)](./slides/2026-03-01-wikimedia25.html)
+- [2026-03-01 wikimedia25 (HTML slides)](https://hijiri.umemoto.org/slides/2026-03-01-wikimedia25.html)
 - [2026-11-05 dentsudai (source)](./_slides_src/2026-11-05-dentsudai.md)
-- [2026-11-05 dentsudai (HTML slides)](./slides/2026-11-05-dentsudai.html)
+- [2026-11-05 dentsudai (HTML slides)](https://hijiri.umemoto.org/slides/2026-11-05-dentsudai.html)
 
 ## Build slides
 
