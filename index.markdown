@@ -10,7 +10,7 @@ title: Hijiri UMEMOTO
 
 - [『ウィキピディア』と『ウィキペディア』](./slides/2026-03-01-wikimedia25.html)
 - [電気通信大学メモ(1)（2026-11-05）](./slides/2026-11-05-dentsudai.html)
-- [マンホールの蓋を地図にマッピングしたい (1)](./slides/2026-11-16-manhole.html)
+- [マンホールの蓋を地図にマッピングしたい (1) (2026-11-16)](./slides/2026-11-16-manhole.html)
 - [Markdownでスライドを作る方法](README.slides.md)
 
 ## 実験室

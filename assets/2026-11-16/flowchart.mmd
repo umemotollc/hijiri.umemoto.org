@@ -1,0 +1,14 @@
+flowchart LR
+    subgraph 現地撮影 [1. 現地での路面撮影]
+        Cam[広角または複数カメラ<br>GPS情報付きEXIF記録]
+    end
+
+    subgraph 自前インフラ [2. 自前サーバ環境（ローカル処理）]
+        Pano[<b>自前 Panoramax インスタンス</b><br>画像保管・プライバシーぼかし処理]
+        AI[<b>画像解析・位置補正エンジン</b><br>・蓋の種類（材質/模様）をAI判別<br>・撮影距離に応じた位置情報の補正]
+        LocalOSM[(<b>ローカルOSMデータベース</b><br>OSMコピーデータ ＋ 下水道台帳)]
+    end
+
+    Cam -->|画像アップロード| Pano
+    Pano -->|画像・EXIFデータ| AI
+    AI <-->|GPS誤差を考慮した位置突合・属性付与| LocalOSM
